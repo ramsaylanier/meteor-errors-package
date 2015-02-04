@@ -1,6 +1,5 @@
 #Meteor Errors Package
-A slightly more advanced version of the [error notification package](https://atmospherejs.com/tmeasday/errors) created by Tom Coleman
-Created by [Ramsay Lanier](http://ramsaylanier).
+A slightly more advanced version of the [error notification package](https://atmospherejs.com/tmeasday/errors) created by Tom Coleman.
 
 ###Basic usage:
 
