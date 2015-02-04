@@ -1,0 +1,14 @@
+/* line 1, ../scss/_errors.scss */
+.errors {
+  top: 0px;
+  left: 0px;
+  position: fixed;
+  width: 100%;
+}
+
+/* line 11, ../scss/_errors.scss */
+.alert-error {
+  background-color: #DA3D3D;
+  padding: .25em 0em;
+  color: white;
+}
